@@ -1,0 +1,26 @@
+.circle {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background-color: red;
+}
+img {
+    display: block;
+    width: 800px;
+    border-radius: 10px;
+    border: 2px solid green;
+}
+h1 {
+    background-color: #D18C1d;
+    border: 1px solid red;
+    padding: 10px;
+}
+a {
+    background-color: #A1A1A1;
+    border-bottom:  3px dashed blue;
+}
+p {
+    width: 600px;
+    height: 400px;
+    background-color: #D1D631;
+}
