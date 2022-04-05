@@ -1,0 +1,55 @@
+.box {
+    padding: 5px;
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+    border: 5px solid black;
+    background-color: crimson;
+}
+span {
+    display: inline-block;
+    padding: 5px;
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+    border: 5px double black;
+    background-color: crimson;
+}
+.square {
+    padding: 5px;
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+    border: 5px dashed black;
+    background-color: crimson;
+}
+.rectangle {
+    display: inline-block;
+    padding: 5px;
+    width: 150px;
+    height: 100px;
+    margin: 20px;
+    border: 5px dotted black;
+    background-color: crimson;
+}
+.model {
+    width: 130px;
+    height: 70px;
+    background-color: crimson;
+    border: none;
+}
+p {
+    width: 400px;
+    height: 500px;
+    border-top: 10px solid blue;
+    background-color: orangered;
+    border-bottom-left-radius: 10px solid green;
+    border-bottom: 10px solid yellow;
+    border-left: 10px solid green;
+    border-right: 10px solid gray;
+    outline: 10px solid blueviolet;
+
+
+
+
+}
