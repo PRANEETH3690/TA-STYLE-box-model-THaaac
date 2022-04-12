@@ -1,0 +1,14 @@
+.box{
+    background-color: aquamarine;
+    width: 200px; 
+    height: 200px;
+    padding: 5px solid skyblue;
+    border: 2px solid black;
+    margin: 10px solid palevioletred;
+}
+.content { 
+    width: 2px;
+    height: 2px;
+    border-radius: 2px;
+    background-color: greenyellow;
+}
