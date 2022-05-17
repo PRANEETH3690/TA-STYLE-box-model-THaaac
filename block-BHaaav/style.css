@@ -1,0 +1,31 @@
+
+div {
+    text-align: center;
+    margin-bottom: 200px;
+}
+span {
+    margin-inline: 30px;
+}
+hr {
+    width: 1500px;
+}
+body {
+    padding: 200px;
+}
+img {
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+}
+header {
+    background-color: navy;
+    color: aliceblue;
+    padding-bottom: 50px;
+}
+h1 {
+    text-align: center;
+}
+.light-blue {
+    background-color: lightblue;
+}
+
